@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "710514859768",
+    "project_id": "pattarya-samajam-15ada",
+    "storage_bucket": "pattarya-samajam-15ada.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710514859768:android:2e20c730511332a9d5250d",
+        "android_client_info": {
+          "package_name": "com.example.pattarya_samajam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710514859768-q9tbnqajdnl9npcvsegdn0qurbsf0nuo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAdabOKcKGf1hgn7W8CVFQotelNAN-nWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710514859768-q9tbnqajdnl9npcvsegdn0qurbsf0nuo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
